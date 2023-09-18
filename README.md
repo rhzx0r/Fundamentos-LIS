@@ -4,11 +4,11 @@ En este repositorio compartiremos nuestros avances en el proyecto de Fundamentos
 ## Equipo
 
 ### Líder del Equipo:
-* Ricardo Reyes 
+* [Ricardo Reyes Balam Cupul](https://github.com/rhzx0r)
 
 ### Equipo de desarrollo:
-* Daniel Jesus Balam Raz
-* Didier Francisco Cupul Tec
+* [Daniel Jesus Balam Raz](https://github.com/Ferjes123)
+* [Didier Francisco Cupul Tec](https://github.com/DidierFranciscoCupulTec)
 
 ## Propuesta del proyecto
 Una plataforma de aprendizaje en linea llamada "EduLearn"
