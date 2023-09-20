@@ -29,18 +29,18 @@ Una plataforma de aprendizaje en linea llamada "EduLearn"
 
 5. **Foro y Comunidad:** "EduLearn" tendrá áreas de discusión y foros para que los estudiantes puedan interactuar y discutir temas relevantes a los cursos. También se promoverá la creación de una comunidad de aprendizaje.
 
-6. **Seguridad y Privacidad:** La plataforma implementará medidas sólidas de seguridad y provacidad de datos para proteger la información del usuario y cumplir con las regulaciones de protección de datos.
+6. **Seguridad y Privacidad:** La plataforma implementará medidas sólidas de seguridad y privacidad de datos para proteger la información del usuario y cumplir con las regulaciones de protección de datos.
 
-7. **Calificación Automatizada:** Se integrará una función de calificación automática para pruevas y evaluaciones, lo que facilitará la retroalimentación rápida a los estudiantes.
+7. **Calificación Automatizada:** Se integrará una función de calificación automática para pruebas y evaluaciones, lo que facilitará la retroalimentación rápida a los estudiantes.
 
 ### Beneficios:
 
-* Mayor accecibilidad a la educación.
-* Facilita el seguimiento y la evaluación del prograso del estudiante.
-* Promueve la colavoración y la comunidad de aprendizaje en linea.
+* Mayor accesibilidad a la educación.
+* Facilita el seguimiento y la evaluación del progreso del estudiante.
+* Promueve la colaboración y la comunidad de aprendizaje en linea.
 * Ofrece flexibilidad para instructores y estudiantes.
 
-### Objetivos del Proyecto
+### Objetivos del Proyecto:
 
 * Desarrollar una plataforma robusta y segura.
 * Implementar una interfaz de usuario intuitiva.
@@ -48,7 +48,7 @@ Una plataforma de aprendizaje en linea llamada "EduLearn"
 
 ### Plan de Implementación
 
-1. Reunión inicial con las partes interesadas para definir requisitos especificos.
+1. Reunión inicial con las partes interesadas para definir requisitos específicos.
 2. Diseño de la arquitectura y la interfaz de usuario.
 3. Desarrollo de la plataforma.
 4. Pruebas exhaustivas y corrección de errores.
@@ -104,21 +104,21 @@ Una plataforma de aprendizaje en linea llamada "EduLearn"
 * Los usuarios pueden buscar y descargar recursos educativos.
 
 ### 6. Foros y Comunidad:
-* Debe haber foros de discución para cada curso y una sección de discusión general.
-* Los estudiantes pueden publicar preguntas y participar en discuciones.
+* Debe haber foros de discusión para cada curso y una sección de discusión general.
+* Los estudiantes pueden publicar preguntas y participar en discusiones.
 
 ### 7. Calificación Automatizada:
-* Los instructores pueden configurar pruebas y cuestionarios con preguntas de opcción multiple.
-* El sistema debe calificar automaticamente las respuestas de los estudiantes y proporcionar retroalimentación inmediata.
+* Los instructores pueden configurar pruebas y cuestionarios con preguntas de opción multiple.
+* El sistema debe calificar automáticamente las respuestas de los estudiantes y proporcionar retroalimentación inmediata.
 
 ### Requerimientos No Funcionales:
 
 ### 1. Seguridad:
 * Los datos de los usuarios, incluyendo información personal y registros de actividad, deben estar protegidos con cifrado solido.
 ### 2. Escalabilidad:
-* La pataforma debe ser escalable para manejar un crecimiento significativo de usuarios y cursos.
+* La plataforma debe ser escalable para manejar un crecimiento significativo de usuarios y cursos.
 ### 3. Rendimiento:
-* La pataforma debe ser rápida y eficiente, incluso durante picos de uso.
+* La plataforma debe ser rápida y eficiente, incluso durante picos de uso.
 ### 4. Interfaz de Usuario Intuitiva:
 * La interfaz debe ser fácil de usar tanto para los instructores como para estudiantes.
 * Debe ser compatible con dispositivos móviles y navegadores web modernos.

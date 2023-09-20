@@ -1,6 +1,6 @@
 # Actividades de FIS
 
-## PD-1 Comparativa sintetica de programas de ingeniería de software
+## PD-1 Comparativa sintética de programas de ingeniería de software
 
 **Objetivo general UADY:**
 * Formar profesionales en el proceso de desarrollo y la evolución de sistemas de software a pequeña y gran escala, que solucionen problemas dentro de diferentes áreas de concentración, utilizando las herramientas adecuadas para optimizar los recursos de tiempo y costo, con apego a la ética profesional	
