@@ -1,3 +1,10 @@
+![Image Edulearn](https://thumbs.dreamstime.com/b/print-180897353.jpg)
+
+<h2 align="center">Proyecto Edulearn</h2>
+<p align="center">
+  Proyecto de investigación, en la asignatura FIS
+</p>
+
 ## Equipo
 
 ### Líder del Equipo:
@@ -13,7 +20,7 @@
 - [Objetivos](Documentacion/Objetivos.md)
 - [Usuarios](Documentacion/Usuarios.md)
 - [Requerimientos](Documentacion/Requerimientos.md)
-- [Herramientas y métodos]
-- Roles y proceso de trabajo
-- Casos de uso
-- Bitácora
+- [Herramientas y métodos](Documentacion/Herramientas-Metodos.md)
+- [Roles y proceso de trabajo](Documentacion/Roles-Proceso.md)
+- [Casos de uso](Documentacion/Casos-Uso.md)
+- [Bitácora](Documentacion/Bitacora.md)
