@@ -1,8 +1,8 @@
 # Propuesta del proyecto
 
-Una plataforma de aprendizaje en linea llamada "EduLearn"
+Una plataforma de aprendizaje en linea llamada "EduQuizLab"
 
-## Nuestro proyecto - [EduQuizLab 🧠]
+## Nuestro proyecto - [ 🧠]
 
 ### Descripción del proyecto
 
