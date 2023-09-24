@@ -21,3 +21,5 @@ La metodología utilizada es la metodología SCRUM, ya que es la más trabajada 
 
 * La fase de Product Backlog es escencial, ya que ahí definimos las tareas prioritarias y obtuvimos información detallada del proyecto.
 * La fase del sprint es en donde tuvimos que asignar un intervalo de tiempo de 2 semanas para poder realizar las actividades prioritarias del momento y poder asignar otras de manera inmediata.
+
+![](https://hondurasdigitalchallenge.com/wp-content/uploads/2020/05/section-1-image.png) 
