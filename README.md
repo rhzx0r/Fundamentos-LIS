@@ -2,9 +2,10 @@
   <img src="https://res.cloudinary.com/drxyoybae/image/upload/v1695537869/random/nsbcuzhs7lqmp2k2mqtp.png" alt="main logo">
 </p>
 
-<h2 align="center">Proyecto EduQuizLab 🧠</h2>
-<p align="center">
-  Proyecto de investigación, en la asignatura FIS
+<h1 align="center">Proyecto EduQuizLab 🧠</h2>
+
+<p align="left">
+  EduQuizLab es una herramienta innovadora diseñada para estudiantes y profesores que buscan un enfoque personalizado en la evaluación y el aprendizaje. Con esta plataforma, puedes tomar tu propio material educativo y convertirlos en exámenes a medida. Con EduQuizLab, la educación se adapta a ti.
 </p>
 
 ## Equipo 👨‍👦‍👦
