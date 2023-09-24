@@ -2,7 +2,7 @@
   <img src="https://res.cloudinary.com/drxyoybae/image/upload/v1695537869/random/nsbcuzhs7lqmp2k2mqtp.png" alt="main logo">
 </p>
 
-<h2 align="center">Proyecto Edulearn 🧠</h2>
+<h2 align="center">Proyecto EduQuizLab 🧠</h2>
 <p align="center">
   Proyecto de investigación, en la asignatura FIS
 </p>
