@@ -1,8 +1,8 @@
-# Bitácora de Proyecto - [Nombre del Proyecto]
+# Bitácora de Proyecto - [Nombre del Proyecto] 📝
 
-## Equipo de Proyecto
+## Equipo
 
-- **Líder de Proyecto**: [Ricardo Reyes Balam Cupul
+- **Líder de Proyecto**: [Ricardo Reyes Balam Cupul]
 - **Integrante 2**: [Daniel Jesus Balam Raz]
 - **Integrante 3**: [Didier Francisco Cupul Tec]
 
