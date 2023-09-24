@@ -1,4 +1,4 @@
-<p aling="center">
+<p align="center">
   <img src="https://thumbs.dreamstime.com/b/print-180897353.jpg" alt="main logo">
 </p>
 
