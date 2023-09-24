@@ -1,4 +1,6 @@
-![Image Edulearn](https://thumbs.dreamstime.com/b/print-180897353.jpg)
+<p aling="center">
+  <img src="https://thumbs.dreamstime.com/b/print-180897353.jpg" alt="main logo">
+</p>
 
 <h2 align="center">Proyecto Edulearn</h2>
 <p align="center">
