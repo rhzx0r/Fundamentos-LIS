@@ -2,7 +2,7 @@
 
 Una plataforma de aprendizaje en linea llamada "EduQuizLab"
 
-## Nuestro proyecto - [ 🧠]
+## Nuestro proyecto - [EduQuizLab 🧠]
 
 ### Descripción del proyecto
 
