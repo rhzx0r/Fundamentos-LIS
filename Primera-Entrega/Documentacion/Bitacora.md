@@ -20,9 +20,11 @@
 
 ---
 
-### [23/09/2024]
+### [27/09/2024]
 
 **Actividades Realizadas**:
+
+- [Líder de Proyecto]: [Se modifico los objetivos del proyecto y se agrego los casos de uso].
 
 ---
 

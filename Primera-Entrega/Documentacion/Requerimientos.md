@@ -5,7 +5,7 @@
 ### 1. Registro de Usuarios:
 * Los usuarios deberán crear una cuenta personal.
 * Se debe validar la dirección de correo electrónico durante el proceso de registro.
-* Se debe registrar como profesor o estudiamte.
+* Se debe registrar como estudiante.
 
 ### 2. Seguimiento del Progreso:
 * Los instructores y estudiantes pueden monitorear su progreso y áreas en las que pueden mejorar.

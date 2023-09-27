@@ -24,14 +24,10 @@
 
 * **Personalización del Aprendizaje:** Los estudiantes pueden enfocarse en áreas específicas de estudio y recibir evaluaciones adaptadas a sus necesidades.
 
-* **Ahorro de Tiempo para Profesores:** Los profesores pueden generar exámenes de manera eficiente a partir del material educativo existente.
-
 * **Retroalimentación Inmediata:** Los estudiantes obtienen resultados y retroalimentación instantánea, lo que facilita su proceso de aprendizaje.
 
 * **Recursos de Estudio Mejorados:** El proceso de crear exámenes promueve la revisión y la comprensión más profunda del contenido educativo.
 
-* **Facilita la Evaluación Continua:** Los profesores pueden implementar evaluaciones regulares para medir el progreso de los estudiantes a lo largo del tiempo.
-
 ### Innovación
 
-La innovación principal de **EduQuizLab** radica en su capacidad para transformar contenido educativo estático en evaluaciones interactivas y personalizadas. Permite a los estudiantes y profesores crear exámenes de manera eficiente y aprovechar al máximo los recursos de estudio existentes. Esta plataforma promueve un enfoque más centrado en el estudiante para la adquisición de conocimientos y la evaluación, lo que contribuye a un aprendizaje más efectivo y autodirigido.
+La innovación principal de **EduQuizLab** radica en su capacidad para transformar contenido educativo estático en evaluaciones interactivas y personalizadas. Permite a los estudiantes crear exámenes de manera eficiente y aprovechar al máximo los recursos de estudio existentes. Esta plataforma promueve un enfoque más centrado en el estudiante para la adquisición de conocimientos y la evaluación, lo que contribuye a un aprendizaje más efectivo y autodirigido.
