@@ -20,11 +20,13 @@
 
 ---
 
-### [27/09/2024]
+### [27/09/2023]
 
 **Actividades Realizadas**:
 
 - [Líder de Proyecto]: [Se modifico los objetivos del proyecto y se agrego los casos de uso].
+
+- [Integrante 2]: [Se agregaron los Roles y procesos. Junto con las Herramientas y métodos].
 
 ---
 
@@ -33,7 +35,9 @@
 **Revisión del Progreso**:
 
 - [Líder de Proyecto]: [Resumen de los logros y desafíos hasta el momento].
-- [Integrante 2]: [Comentarios sobre el progreso y posibles mejoras].
+- [Integrante 2]: [Comentarios sobre el progreso y posibles mejoras]
+
+     [Edición del video de la primera entrega]
 - [Integrante 3]: [Observaciones y sugerencias para el equipo].
 
 **Ajustes y Planificación Futura**:
