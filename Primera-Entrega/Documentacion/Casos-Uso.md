@@ -7,7 +7,7 @@
 * **Objetivo**: Crear un examen personalizado para estudiar un tema específico.
 
 * **Pasos**:
-   1. Iniciar sesión en la plataforma "EduExamPro".
+   1. Iniciar sesión en la plataforma "EduQuizLab".
    2. Seleccionar la opción para crear un nuevo examen.
    3. Agregar preguntas desde el material educativo previamente cargado o utilizar preguntas almacenadas en el banco de preguntas.
    4. Personalizar la configuración del examen, como la duración y el número de preguntas.
