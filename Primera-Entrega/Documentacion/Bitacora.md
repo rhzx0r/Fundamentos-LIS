@@ -28,7 +28,7 @@
 
 - [Integrante 2]: [Se agregaron los Roles y procesos. Junto con las Herramientas y métodos].
   
-- .[Integrante 3].: .[Se agrego el usuario y los requerimiento (funcionales y no funcionales)].
+- [Integrante 3]: .[Se agrego el usuario y los requerimiento (funcionales y no funcionales)].
 
 ---
 
