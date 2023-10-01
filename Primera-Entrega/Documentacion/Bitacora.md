@@ -27,6 +27,8 @@
 - [Líder de Proyecto]: [Se modifico los objetivos del proyecto y se agrego los casos de uso].
 
 - [Integrante 2]: [Se agregaron los Roles y procesos. Junto con las Herramientas y métodos].
+  
+- .[Integrante 3].: .[Se agrego el usuario y los requerimiento (funcionales y no funcionales)].
 
 ---
 
@@ -38,7 +40,7 @@
 - [Integrante 2]: [Comentarios sobre el progreso y posibles mejoras]
 
      [Edición del video de la primera entrega]
-- [Integrante 3]: [Observaciones y sugerencias para el equipo].
+- [Integrante 3]: [Observaciones y sugerencias para el desarrollo del equipo].
 
 **Ajustes y Planificación Futura**:
 
