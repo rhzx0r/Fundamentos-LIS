@@ -1,4 +1,4 @@
-# Bitácora de Proyecto - [Nombre del Proyecto] 📝
+# Bitácora de Proyecto - [EduQuizLab] 📝
 
 ## Equipo
 
