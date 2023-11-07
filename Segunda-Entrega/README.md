@@ -11,3 +11,4 @@
 * [Roles y proceso de trabajo 🔄](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Roles-Proceso.md)
 * [Casos de uso ✅](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Casos-Uso.md)
 * [Bitácora 📝](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Bitacora.md)
+* [Competencias 🥇](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Competencias.md)
