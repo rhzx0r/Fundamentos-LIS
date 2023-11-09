@@ -1,6 +1,6 @@
 # Competencias 🥇
 
-**Competencias genéricas**:
+##Competencias genéricas##:
 • Nos comunicamos en español de forma oral y escrita en las intervenciones profesionales que tuvimos para poder llevar acabó el desarrollo del software, así como la división del trajo y los roles que cada uno emplea.
 • Utilizamos correctamente TIC, usando múltiples recursos, para poder comunicarnos virtualmente y poder tener un ambiente laboral profesional e efectivo para la creación del software. Algunas de las plataformas que usamos son: trello, scrum, github, WhatsApp y visual studio code.
 • Hemos trabajado de una manera muy cooperativa en muchos aspectos, en todas las reuniones que tuvimos todos participamos, todos dábamos nuestros puntos de vista y cada quien realizo su parte del proyecto, haciendo a nuestro equipo funcional e eficiente.
