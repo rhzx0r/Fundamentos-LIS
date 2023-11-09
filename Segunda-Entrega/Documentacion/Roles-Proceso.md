@@ -27,4 +27,27 @@ Nosotros trabajamos junto con la metodología en un 80%, ya que, en vez de las r
 * La fase de Product Backlog es escencial, ya que ahí definimos las tareas prioritarias y obtuvimos información detallada del proyecto.
 * Tanto los spints como el backlog se encuentran en la página de Trello, donde lo trabajamos junto con Teams por medio de una extensión.
 
+### Métrica de trabajo
+
+* La siguiente tabla representa el Valor de las actividades junto con el responsable.
+* El valor de cada actividad varía y va desde 1 (siendo el valor más bajo) hasta 3 (siendo el valor más alto).
+* Las actividades van desde la primera entrega hasta la segunda entrega.
+
+| Actividad | Responsable | Valor |
+|---|---|---|
+| Objetivos| Ricardo Balam | 1 |
+| Casos de Uso| Ricardo Balam | 2 |
+| Herramientas y métodos| Daniel Balam | 2 |
+| Usuarios | Didier Cupul | 2 |
+| Proyecto| Todos | 3 |
+| Requerimientos | Didier Cupul | 3 |
+| Roles y procesos | Daniel Balam | 3 |
+| Bitácora | Todos | 1 |
+| Edición del video primera entrega| Daniel Balam | 1 |
+| Resumen de la segunda entrega |  | 1|
+| Creación de prototipos de la página | | 2 |
+| Bitácora con evidencias| | 2 |
+| Competencias| | 1| 
+| Edición de la segunda entrega| | 1| 
+
 ![](https://hondurasdigitalchallenge.com/wp-content/uploads/2020/05/section-1-image.png) 
