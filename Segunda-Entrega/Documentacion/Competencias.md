@@ -9,6 +9,13 @@
 
 ## Competencias específicas :
 
-* Lider Ricardo Balam (Product Owner) responsable de garantísar el cumplimiento de los objetivos propuestos propuestos para llevar acabó el desarrollo del software. Elaborando los casos de uso, la bitácora , el resumen de los logros y cordinandon el trabajo en equipo. 
-*  Daniel Raz (Development Team) desarrollando los roles y procesos, las herramientas, métodos, elaborando la edición del vídeo. Dando puntos de vista para posibles mejoras del trabajo en equipo y del software. 
-*  Didier Cupul (Development Team) elaborando los usuarios y la requerimiento (funcionales y no funcionales), brindando sugerencias y observaciones para el trabajo en equipo. 
+Son aquellas que se relacionan con el contenido y el manejo de la plataforma.
+
+## Pedagogía
+
+* El conocimiento de las teorias y estrategias de enseñanza que tiene un profesor para poder adaptarse a cada alumno a poder aprender el tema en específico lo cual nuestro software remplaza al profesor generando formularios y haciendo una retroalimentación, haciendo más rápido el proceso de repaso.
+
+## Diseño
+
+* La avilidad de poder crear un software atractivo, funcional y accesiblen ante el público. Utilizando lenguaje de programación, erramienta de edición.
+
