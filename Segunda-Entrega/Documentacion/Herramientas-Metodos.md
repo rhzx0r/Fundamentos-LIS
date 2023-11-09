@@ -18,3 +18,6 @@ Utilizamos el método de SCRUM, descrito en el apartado de [Proceso de trabajo](
 ### **4. Animotica**
 
 -  Editor de video que nos facilita y permite realizar contenido audiovisual, utilizado para los diferentes videos que conlleva el proyecto
+
+### **5. Trello**
+-  Herramienta utilizada para organizar las tareas, tanto las que se están elaborando, las realizadas y por hacer. 
