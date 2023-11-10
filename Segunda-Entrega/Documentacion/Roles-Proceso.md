@@ -44,10 +44,10 @@ Nosotros trabajamos junto con la metodología en un 80%, ya que, en vez de las r
 | Bitácora | Todos | 1 |
 | Edición del video primera entrega| Daniel Balam | 1 |
 | Resumen de la segunda entrega | Didier Cupul | 1|
-| Creación de prototipos de la página | | 2 |
-| Bitácora con evidencias| | 2 |
-| Competencias| | 1| 
-| Edición de la segunda entrega| | 1| 
+| Creación de prototipos de la página | Ricardo Balam | 2 |
+| Bitácora con evidencias| Ricardo Balam | 2 |
+| Competencias| Didier Cupul | 1| 
+| Edición de la segunda entrega| Daniel Balam | 1| 
 
  ### Resumen de actividades
 
