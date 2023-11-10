@@ -5,7 +5,6 @@
 - Daniel Balam: Development Team
 - Didier Cupul: Development Team
 
-
 # Proceso de trabajo
 
 ## SCRUM
