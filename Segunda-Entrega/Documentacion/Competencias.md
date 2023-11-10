@@ -13,9 +13,9 @@ Son aquellas que se relacionan con el contenido y el manejo de la plataforma.
 
 ## Pedagogía
 
-* El conocimiento de las teorias y estrategias de enseñanza que tiene un profesor para poder adaptarse a cada alumno a poder aprender el tema en específico lo cual nuestro software remplaza al profesor generando formularios y haciendo una retroalimentación, haciendo más rápido el proceso de repaso.
+* El conocimiento de las teorías y estrategias de enseñanza que tiene un profesor para poder adaptarse a cada alumno a poder aprender el tema en específico lo cual nuestro software remplaza al profesor generando formularios y haciendo una retroalimentación, haciendo más rápido el proceso de repaso.
 
 ## Diseño
 
-* La avilidad de poder crear un software atractivo, funcional y accesiblen ante el público. Utilizando lenguaje de programación, erramienta de edición.
+* La habilidad de poder crear un software atractivo, funcional y accesibles ante el público. Utilizando lenguaje de programación, herramienta de edición.
 
