@@ -33,6 +33,21 @@ Nosotros trabajamos junto con la metodología en un 80%, ya que, en vez de las r
 * El valor de cada actividad varía y va desde 1 (siendo el valor más bajo) hasta 3 (siendo el valor más alto).
 * Las actividades van desde la primera entrega hasta la segunda entrega.
 
+ ### resumen de actividades
+
+En esta segunda entrega fueron muy pocas las correcciones que hicimos  y agregamos algunos elementos que nos hicieron falta para  que el proyecto estuviera completo. Las correcciones y elementos que agregamos fueron:
+* se agrego el diseño en figma.
+* se corrigió la información del scrum 
+* se realizaron los prototipos.
+* se agregon las competencias genéricas y específicas.
+* se agrego la herramienta trello.
+* se realizo una tabla de actividades para poder daler valor alas actividades.
+* se les asignó una prioridad a los requerimientos.
+* se corrigió el vídeo agregando las partes que se  mencionaron.
+
+Esto fue todas las correcciones que tuvimos para nuestra segunda entrega del proyecto
+
+
 | Actividad | Responsable | Valor |
 |---|---|---|
 | Objetivos| Ricardo Balam | 1 |
