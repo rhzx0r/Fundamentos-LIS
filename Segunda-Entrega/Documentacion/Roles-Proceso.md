@@ -59,7 +59,7 @@ Esto fue todas las correcciones que tuvimos para nuestra segunda entrega del pro
 | Roles y procesos | Daniel Balam | 3 |
 | Bitácora | Todos | 1 |
 | Edición del video primera entrega| Daniel Balam | 1 |
-| Resumen de la segunda entrega | Didier cupul | 1|
+| Resumen de la segunda entrega | Didier Cupul | 1|
 | Creación de prototipos de la página | | 2 |
 | Bitácora con evidencias| | 2 |
 | Competencias| | 1| 
