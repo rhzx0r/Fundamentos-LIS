@@ -35,10 +35,11 @@ Nosotros trabajamos junto con la metodología en un 80%, ya que, en vez de las r
  ### Resumen de actividades
 
 En esta segunda entrega fueron muy pocas las correcciones que hicimos  y agregamos algunos elementos que nos hicieron falta para  que el proyecto estuviera completo. Las correcciones y elementos que agregamos fueron:
+
 * Se agrego el diseño en figma.
 * Se corrigió la información del scrum 
 * Se realizaron los prototipos.
-* Se agregon las competencias genéricas y específicas.
+* Se agrego las competencias genéricas y específicas.
 * Se agrego la herramienta trello.
 * Se realizo una tabla de actividades para poder daler valor alas actividades.
 * Se les asignó una prioridad a los requerimientos.
