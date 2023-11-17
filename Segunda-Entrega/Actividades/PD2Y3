@@ -1,0 +1,57 @@
+Reflexiona sobre 3 habilidades técnicas asociadas a la fase de Requerimientos. Indica su importancia dentro del ciclo de Ingeniería de Requerimientos Incluye argumentos de tu selección. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+
+Análisis de requerimientos: Esta habilidad técnica consiste en la capacidad de desglosar , comprender y entender los requerimientos que se desean saber y representar.
+En el proyecto está representado por medio de la pequeña definición que se le da a cada requerimiento.
+Modelado de requerimientos: Esta habilidad se enfoca en poder representar los requerimientos, como en nuestro proyecto, por medio de prototipos o por medio de casos de uso.
+Gestión de cambios: Esta habilidad permite tener la capacidad de poder representar cambios, y saber el por qué de este. En nuestro proyecto únicamente está representado por medio de la descripción más detallada de algunos requerimientos.
+
+Explica de forma clara la diferencia entre Especificación de Casos de Uso vs Historias de Usuario. Adicionalmente indica en qué casos se recomiendan el uso de cada una de estas herramientas. Proporciona un ejemplo basado en la experiencia del proyecto en equipo que están desarrollando
+
+Caso de uso
+Definición: La Especificación de Casos de Uso describe cómo interactúan los actores (usuarios o sistemas externos) con el sistema para lograr un objetivo específico. Se centra en describir las interacciones entre los actores y el sistema a través de escenarios específicos.
+Son útiles en proyectos donde se requiere una comprensión detallada de las interacciones entre los usuarios y el sistema. Son efectivos para describir funcionalidades complejas y detalladas, facilitando la comprensión de los requisitos por parte de los desarrolladores y los stakeholders.
+Historias de usuario
+Definición: Las Historias de Usuario son breves descripciones de una funcionalidad del sistema, escritas desde la perspectiva del usuario final. Suelen seguir la estructura simple de "Como [tipo de usuario], quiero [acción] para [objetivo]".
+Recomendaciones de Uso: Son ideales en entornos ágiles donde se valora la colaboración y la adaptabilidad. Son útiles para equipos que desean una comunicación más ágil y enfocada en los objetivos, permitiendo una rápida priorización y entrega incremental de funcionalidades.
+Detallamos nuestros casos de uso en el proyecto, como por ejemplo el estudiante crea un examen, y se definen los pasos:
+Iniciar sesión en la plataforma "EduQuizLab".
+Seleccionar la opción para crear un nuevo examen.
+Agregar preguntas desde el material educativo previamente cargado o utilizar preguntas almacenadas en el banco de preguntas.
+Personalizar la configuración del examen, como la duración y el número de preguntas.
+Realizar el examen y recibir retroalimentación instantánea.
+
+
+Punto 3
+Un enfoque efectivo para incluir pruebas en el desarrollo de software es la Integración Continua (CI) junto con la Prueba Continua (CT). Estas prácticas permiten realizar pruebas automáticamente a lo largo de todo el ciclo de vida del desarrollo.
+
+Desde las etapas iniciales del desarrollo, las pruebas pueden comenzar con pruebas unitarias integradas en el proceso de codificación. A medida que el código se integra en el repositorio compartido, se ejecutan pruebas automáticas para garantizar que las nuevas adiciones no afecten negativamente a las existentes.
+
+Un ejemplo basado en la experiencia del proyecto en equipo podría ser implementar un flujo de CI/CT utilizando herramientas como Jenkins, Travis CI o GitLab CI. Cada vez que un miembro del equipo envía cambios al repositorio, se activa automáticamente una secuencia de pruebas que abarcan desde pruebas unitarias hasta pruebas de integración.
+
+Esto asegura la detección temprana de errores, facilita la corrección rápida y mantiene la estabilidad del software. Además, se pueden agregar pruebas de aceptación automatizadas en etapas posteriores para validar que las características clave del software funcionan según lo previsto.
+
+Recuerda adaptar estos métodos según las necesidades específicas de tu proyecto y equipo.
+
+ Punto 4
+Para desarrollar aplicaciones de software seguras, un Ingeniero de Software debe poseer una combinación de habilidades técnicas y conocimientos especializados en seguridad. Aquí hay algunas áreas clave que deberían formar parte de su formación académica:
+
+1. Desarrollo Seguro de Software:
+2. Conocimiento profundo de las prácticas seguras de codificación.
+3. Comprender las vulnerabilidades comunes de seguridad, como inyecciones SQL, cross-site scripting (XSS), etc.
+4. Criptografía:
+1. Familiaridad con algoritmos criptográficos y su implementación adecuada.
+2. Conocimiento de cómo aplicar técnicas de cifrado y hash para proteger datos sensibles.
+ Gestión de Identidad y Acceso:
+1. Entender los principios de autenticación y autorización.
+2. Conocimientos en el manejo seguro de contraseñas y técnicas de autenticación multifactor (MFA).
+ Seguridad en Redes:
+1. Conciencia de los conceptos de seguridad de red.
+2. Comprender las amenazas y contramedidas relacionadas con la comunicación segura.
+ Pruebas de Seguridad:
+1. Habilidades en pruebas de penetración para identificar y corregir vulnerabilidades.
+2. Conocimiento de herramientas de prueba de seguridad y análisis estático/dinámico de código.
+3. Seguridad en el Ciclo de Vida del Desarrollo de Software (SDLC):
+4. Integración de prácticas de seguridad en todas las etapas del SDLC.
+5. Conocimiento de modelos de amenazas y evaluación de riesgos.
+
+Estos conocimientos proporcionan una base sólida para construir aplicaciones de software seguras. Se recomienda mantenerse actualizado sobre las últimas amenazas y soluciones de seguridad a medida que evoluciona el panorama de la ciberseguridad.
