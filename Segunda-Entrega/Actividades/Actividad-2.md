@@ -58,3 +58,13 @@
 - **Criterios:** En ambos modelos, los factores de calidad actúan como criterios para evaluar la calidad del software, pero difieren en la cantidad y enfoque de dichos factores.
 
 En resumen, ambos modelos se centran en la calidad del producto de software, aunque difieren en la cantidad de niveles de jerarquía, factores de calidad y enfoque de los mismos.
+
+## Selecciona tres de los siete factores de calidad del modelo de Boehm y evalúa en plenaria con tu equipo si el producto que estás desarrollando cumple con los criterios de estos atributos. Fundamenta tus respuestas.
+
+### - Portabilidad -
+
+**1. Requisitos de Plataforma:**
+La aplicación "EduQuizLab" está diseñada para ser independiente del sistema operativo. Utiliza tecnologías web estándar que permiten su ejecución en múltiples sistemas operativos, como Windows, macOS y Linux. La elección de tecnologías multiplataforma garantiza una mayor portabilidad.
+
+**2. Compatibilidad con Diferentes Dispositivos:**
+La interfaz de usuario ha sido diseñada con un enfoque de diseño responsivo, lo que significa que se adapta y funciona bien en una amplia gama de dispositivos, incluyendo computadoras de escritorio, tabletas y teléfonos móviles. Se ha puesto énfasis en la usabilidad en diferentes tamaños de pantalla y dispositivos.
