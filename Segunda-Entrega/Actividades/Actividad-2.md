@@ -1,4 +1,11 @@
 # Actividad 2
+### Identifica al menos cinco factores de calidad según el modelo de calidad de McCall y profundiza en las definiciones de estos atributos, proporcionando explicaciones en tus propias palabras sobre su significado. 
+
+-Fiabilidad: Es la manera en la que el software va de acuerdo a las funciones requeridas, sin errores y ofreciendo buenos resultados.
+-Mantenibilidad: Es la manera en la que el software puede ser altamente modificado después de haberse inicializado, permitiendo cambios con eficiencia 
+-Usabilidad: Es la facilidad en como el usuario interactúa con el software	, siendo fácil de aprender y de usar, teniendo un diseño altamente fiable para que el usuario no pueda cometer algún error.
+-Eficiencia: Este se relaciona con la utilización de recursos , ya sea tiempo, costo etc. Mientras menos se use, es más eficiente de elaborar. 
+-Adaptabilidad: Es el modo en el que el software puede ser capaz de adaptarse a los diferentes cambios de entorno o de requisitos sin requerir cambios en su estructura general. 
 
 
 ### Realiza una comparación entre los modelos de calidad de McCall y Boehm, abordando aspectos como niveles de jerarquía, perspectivas del producto, factores de calidad y criterios. 
