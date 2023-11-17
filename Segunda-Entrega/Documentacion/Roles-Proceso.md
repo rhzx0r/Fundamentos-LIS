@@ -48,9 +48,6 @@ En esta segunda entrega fueron muy pocas las correcciones que hicimos  y agregam
 
 Esto fue todas las correcciones que tuvimos para nuestra segunda entrega del proyecto
 
-
-=======
->>>>>>> 85a46637d144f6b65b9d4e3483e54436e1240aa7
 | Actividad | Responsable | Valor |
 |---|---|---|
 | Objetivos| Ricardo Balam | 1 |
