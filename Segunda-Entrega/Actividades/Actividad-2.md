@@ -72,3 +72,6 @@ La interfaz de usuario ha sido diseñada con un enfoque de diseño responsivo, l
 ### - Facilidad para ser modificado -
 
 Consideramos que el código de nuestra página web es fácil para ser modificado, la extensibilidad del código no es tan larga y al estar bien estructurado puede ser muy fácil para ser modificado en caso de ser necesario para cualquier motivo, ya sea de mantenimiento o algún error encontrado .  
+### - Eficiencia -
+
+El sistema es basado en una serie de seguridad muy detallada y estricta para mantener la información del usuario seguro. Se adapta a cualquier tipo de ordenador y navegador para poder tener una mejor fluidez y tener mayor funcionamiento. Puede ser usado por cualquier persona, desde que cuente con una conección al internet puede hacer uso del software.
