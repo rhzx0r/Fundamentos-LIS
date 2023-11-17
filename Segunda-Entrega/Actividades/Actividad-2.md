@@ -68,3 +68,7 @@ La aplicación "EduQuizLab" está diseñada para ser independiente del sistema o
 
 **2. Compatibilidad con Diferentes Dispositivos:**
 La interfaz de usuario ha sido diseñada con un enfoque de diseño responsivo, lo que significa que se adapta y funciona bien en una amplia gama de dispositivos, incluyendo computadoras de escritorio, tabletas y teléfonos móviles. Se ha puesto énfasis en la usabilidad en diferentes tamaños de pantalla y dispositivos.
+
+### - Facilidad para ser modificado -
+
+Consideramos que el código de nuestra página web es fácil para ser modificado, la extensibilidad del código no es tan larga y al estar bien estructurado puede ser muy fácil para ser modificado en caso de ser necesario para cualquier motivo, ya sea de mantenimiento o algún error encontrado .  
