@@ -32,7 +32,6 @@ Nosotros trabajamos junto con la metodología en un 80%, ya que, en vez de las r
 * El valor de cada actividad varía y va desde 1 (siendo el valor más bajo) hasta 3 (siendo el valor más alto).
 * Las actividades van desde la primera entrega hasta la segunda entrega.
 
-<<<<<<< HEAD
  ### Resumen de actividades
 
 En esta segunda entrega fueron muy pocas las correcciones que hicimos  y agregamos algunos elementos que nos hicieron falta para  que el proyecto estuviera completo. Las correcciones y elementos que agregamos fueron:
