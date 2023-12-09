@@ -13,3 +13,4 @@
 * [Bitácora 📝](https://github.com/rhzx0r/Fundamentos-LIS/blob/tercera-entrega/Tercera-Entrega/Documentacion/Bitacora.md)
 * [Competencias 🥇](https://github.com/rhzx0r/Fundamentos-LIS/blob/tercera-entrega/Tercera-Entrega/Documentacion/Competencias.md)
 * [Diseño 🎨](https://github.com/rhzx0r/Fundamentos-LIS/blob/tercera-entrega/Tercera-Entrega/Documentacion/Diseno.md)
+* [Conclusión 💯](https://github.com/rhzx0r/Fundamentos-LIS/blob/tercera-entrega/Tercera-Entrega/Documentacion/Diseno.md)
