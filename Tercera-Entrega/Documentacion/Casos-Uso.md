@@ -21,10 +21,6 @@
 
 ## Pruebas informales
 
-DPor supuesto, aquí está el plan para pruebas informales con usuarios primarios para "EduQuizLab" en formato Markdown:
-
----
-
 ### Diseño de Pruebas Informales con Usuarios Primarios para EduQuizLab
 
 #### 1. Identificación de Indicadores Relevantes:
@@ -51,17 +47,9 @@ Se revisa que los indicadores seleccionados estén directamente alineados con lo
 
 - **Preguntas de Satisfacción**: Se diseñan preguntas que evalúen la experiencia general del usuario al utilizar la plataforma.
 - **Escala de Evaluación**: Utilización de escalas de valoración (por ejemplo, de 1 a 5) para medir la satisfacción en diferentes aspectos (usabilidad, velocidad, comprensión, etc.).
-- **Feedback Cualitativo**: Espacio para comentarios o sugerencias adicionales que los testers deseen proporcionar.
-
----
-
-Este es un plan estructurado para realizar pruebas informales con usuarios primarios, recopilando datos importantes para evaluar la usabilidad y la satisfacción del usuario al interactuar con "EduQuizLab".
+- **Feedback Cualitativo**: Espacio para comentarios o sugerencias adicionales que los testers deseen proporcionar..
 
 ## Resultados
-
-Por supuesto, aquí está el plan de análisis de indicadores y mejoras en interfaces para EduQuizLab en formato Markdown:
-
----
 
 ### Plan de Análisis de Indicadores y Mejoras en Interfaces para EduQuizLab
 
@@ -96,7 +84,3 @@ Por supuesto, aquí está el plan de análisis de indicadores y mejoras en inter
    - Rediseño del panel de control para una navegación más intuitiva.
    - Incorporación de botones de acceso rápido a funcionalidades clave.
    - Ajuste en la disposición de elementos para mejorar la legibilidad y claridad.
-
----
-
-Este plan tiene como objetivo identificar el grado de cumplimiento de los requerimientos y utilizar esos resultados para impulsar mejoras específicas en las interfaces o flujos de "EduQuizLab", buscando siempre mejorar la usabilidad y la experiencia del usuario.
