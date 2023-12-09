@@ -2,7 +2,7 @@
 
 ## Contenido 📚
 
-* [Video segunda entrega 🎥](https://youtu.be/6slidWZ27wY) 
+* [Video tercera entrega 🎥](https://youtu.be/6slidWZ27wY)
 * [Proyecto 🚀](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Proyecto.md)
 * [Objetivos 🎯](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Objetivos.md)
 * [Usuarios 🧑](https://github.com/rhzx0r/Fundamentos-LIS/blob/segunda-entrega/Segunda-Entrega/Documentacion/Usuarios.md)
