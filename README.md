@@ -34,4 +34,4 @@
 
 * [Primera Entrega ✔️](https://github.com/rhzx0r/Fundamentos-LIS/tree/primera-entrega/Primera-Entrega)
 * [Segunda Entrega 🚧](https://github.com/rhzx0r/Fundamentos-LIS/tree/segunda-entrega/Segunda-Entrega)
-* [Tercera Entrega]
+* [Tercera Entrega ✔️](https://github.com/rhzx0r/Fundamentos-LIS/tree/segunda-entrega/Tercera-Entrega)
