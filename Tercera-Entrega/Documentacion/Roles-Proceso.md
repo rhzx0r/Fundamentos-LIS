@@ -47,9 +47,9 @@ En esta segunda entrega fueron muy pocas las correcciones que hicimos  y agregam
 
 Esto fue todas las correcciones que tuvimos para nuestra segunda entrega del proyecto
 
-| Actividad | Responsable | Valor |
+| Actividad | Responsable | Valor | Roles | Resultados |
 |---|---|---|
-| Objetivos| Ricardo Balam | 1 |
+| Objetivos| Ricardo Balam | 1 | 
 | Casos de Uso| Ricardo Balam | 2 |
 | Herramientas y métodos| Daniel Balam | 2 |
 | Usuarios | Didier Cupul | 2 |
