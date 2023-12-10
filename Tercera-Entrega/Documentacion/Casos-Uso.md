@@ -84,3 +84,7 @@ Se revisa que los indicadores seleccionados estén directamente alineados con lo
    - Rediseño del panel de control para una navegación más intuitiva.
    - Incorporación de botones de acceso rápido a funcionalidades clave.
    - Ajuste en la disposición de elementos para mejorar la legibilidad y claridad.
+ 
+  ## Resumen
+
+  - El estudiante busca crear un examen personalizado para estudiar un tema específico a través de la plataforma "EduQuizLab". Utilizando distintos artefactos de ingeniería de software y procesos centrados en el usuario, se diseña y evalúa la experiencia de usuario en la creación y realización de exámenes personalizados.  mediante el uso de tecnologías de base de datos, diseño de interfaces, motores de evaluación y análisis de datos, se crea una plataforma que permite a los estudiantes crear y realizar exámenes personalizados de manera intuitiva y eficiente, asegurando una experiencia satisfactoria y facilitando el proceso de estudio.
