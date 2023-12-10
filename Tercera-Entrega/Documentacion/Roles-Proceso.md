@@ -49,7 +49,7 @@ Esto fue todas las correcciones que tuvimos para nuestra segunda entrega del pro
 
 | Actividad | Responsable | Valor | Roles | Resultados | Tiempo |
 |---|---|---|
-| Objetivos | Ricardo Balam | 1 | SCRUM Master/ Product Owner | Definición de los objetivos | 1smn | 
+| Objetivos| Ricardo Balam| 1| SCRUM Master/ Product Owner| Definición de los objetivos| 1smn| 
 | Casos de Uso | Ricardo Balam | 2 | SCRUM Master/ Product Owner | Explica correctamente los casos de uso | 1smn |
 | Herramientas y métodos | Daniel Balam | 2 | Development Team | Describe todas las erramientas usadas | 1smn |
 | Usuarios | Didier Cupul | 2 | Development Team | Como funcionan los usuarios | 1smn |
