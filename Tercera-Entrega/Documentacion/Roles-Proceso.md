@@ -49,20 +49,20 @@ Esto fue todas las correcciones que tuvimos para nuestra segunda entrega del pro
 
 | Actividad | Responsable | Valor | Roles | Resultados | Tiempo |
 |---|---|---|
-| Objetivos| Ricardo Balam| 1| SCRUM Master/ Product Owner| Definición de los objetivos| 1smn | 
-| Casos de Uso | Ricardo Balam | 2 | SCRUM Master/ Product Owner | Explica correctamente los casos de uso | 1smn |
-| Herramientas y métodos | Daniel Balam | 2 | Development Team | Describe todas las erramientas usadas | 1smn |
+| Objetivos | Ricardo Balam | 1| SCRUM Master/ Product Owner| Definición de los objetivos| 1semana | 
+| Casos de Uso | Ricardo Balam | 2 | SCRUM Master/ Product Owner | Explica correctamente los casos de uso | 1 semana |
+| Herramientas y métodos | Daniel Balam | 2 | Development Team | Describe todas las erramientas usadas | 1 semana |
 | Usuarios | Didier Cupul | 2 | Development Team | Como funcionan los usuarios | 1smn |
-| Proyecto | Todos | 3 | SCRUM Master/ Product Owner Development Team | explicación del proyecto | 1smn |
+| Proyecto | Todos | 3 | SCRUM Master/ Product Owner Development Team | explicación del proyecto | 1 semana  |
 | Requerimientos | Didier Cupul | 3 | Development Team | Explicaa correctamente los requerimiento | 1smn y 2ds |
-| Roles y procesos | Daniel Balam | 3 | Development Team | Excelente explicación de los roles | 1smn |
+| Roles y procesos | Daniel Balam | 3 | Development Team | Excelente explicación de los roles | 1 semana |
 | Bitácora | Todos | 1 | SCRUM Master/ Product Owner Development Team | Organización | 4ds |
 | Edición del video primera entrega | Daniel Balam | 1 | Development Team | un excelente video | 2ds |
-| Resumen de la segunda entrega | Didier Cupul | 1 | Development Team | explicación brebe de todo lo realizado | 1smn |
-| Creación de prototipos de la página | Ricardo Balam | 2 | SCRUM Master/ Product Owner | Facil de entender y de manehar | 2smn |
-| Bitácora con evidencias| Ricardo Balam | 2 | SCRUM Master/ Product Owner | Organización de actividades y tiempo | 2smn |
+| Resumen de la segunda entrega | Didier Cupul | 1 | Development Team | explicación brebe de todo lo realizado | 1 semana |
+| Creación de prototipos de la página | Ricardo Balam | 2 | SCRUM Master/ Product Owner | Facil de entender y de manehar | 2 semanas |
+| Bitácora con evidencias| Ricardo Balam | 2 | SCRUM Master/ Product Owner | Organización de actividades y tiempo | 2 semanas |
 | Competencias| Didier Cupul | 1 | Development Team | competencias claras | 1smn |
-| Edición de la segunda entrega| Daniel Balam | 1 | uma edición expectacular | 1smn |
+| Edición de la segunda entrega| Daniel Balam | 1 | uma edición expectacular | 1 semana |
 
  ### Resumen de actividades
 
